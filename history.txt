@@ -1,0 +1,30 @@
+ Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\Nishant_Victus\AppData\Local\Programs\Microsoft VS Code\61b3d0ab13\resources\app\out\vs\workbench\contrib\terminal\common...
+   2 hi
+   3 vim file.py
+   4 ls
+   5 ls -l
+   6 ls -l
+   7 Get-ChildItem | Format-List
+   8 rm file.py
+   9 git init
+  10 git status
+  11 git status
+  12 git add testing.py
+  13 git status
+  14 clear
+  15 git status
+  16 git rm --cached
+  17 git status
+  18 git rm --cached testing.py
+  19 git status
+  20 git commit -m "added testing file"
+  21 git add testing.py
+  22 git commit -m "added testing file"
+  23 git status
+  24 rm testing.py
+  25 ls
+  26 git restore testing.py
+  27 ls
+  28 git status
